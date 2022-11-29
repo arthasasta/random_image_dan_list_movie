@@ -1,0 +1,10 @@
+<resources>
+    <string name="texthello">HelloWorld</string>
+    <string name="app_name">Helloworld Movies</string>
+
+    <string name="textButton">Ganti Teks Random</string>
+
+    <string name="pindahbutton">Pindah ke halaman movie</string>
+    <string name="api_key">2c4b5c9b12e7a1db6242337110576436</string>
+
+</resources>
